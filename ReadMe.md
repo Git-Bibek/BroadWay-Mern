@@ -1,3 +1,5 @@
 # Git
 
 ## git command
+
+--Pull
