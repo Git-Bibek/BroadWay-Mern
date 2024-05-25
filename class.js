@@ -31,3 +31,6 @@ console.log(userObj)
 const userObj1 = new User("test", "test@gmail", "kathmandu");
 console.log(userObj1)
 
+
+/* create user obj usinf constructor */
+const userObj2 = new User("bib")
